@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423289868737",
+    "project_id": "fmtmimi-9f5be",
+    "storage_bucket": "fmtmimi-9f5be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423289868737:android:8a43f548e0f891f3f85f40",
+        "android_client_info": {
+          "package_name": "com.fmtmimi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423289868737-teu16sgeslt23e42pajj82bhimohst2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgwbGO_AghqBsRcslXCQcepozfdBY3sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423289868737-teu16sgeslt23e42pajj82bhimohst2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

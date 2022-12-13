@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FMTmimi Store</string>
+
+    <!-- Replace "000000000000" with your Facebook CricketHome here. -->
+    <string name="facebook_app_id">2141580686047955</string>
+
+    <string name="fb_login_protocol_scheme">fb2141580686047955</string>
+
+    <string name="facebook_client_token">60dad006600b2d1a5e0ff606b97ed6d3</string>
+</resources>
