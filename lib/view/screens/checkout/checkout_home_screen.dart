@@ -646,8 +646,8 @@ class _CheckoutScreenState extends State<CheckoutScreen> {
     Billing shipping = Billing(
       firstName: addressBook?.firstName ?? '',
       lastName: addressBook?.lastName ?? '',
-      //email: prefs.getString(userEmail) ?? '',
-      email: 'contactalidaba@gmail.com',
+      email: prefs.getString(userEmail) ?? '',
+      //email: 'contactalidaba@gmail.com',
       phone: '(${addressBook?.countyCode ?? ''}) ${addressBook?.phone ?? ''}',
       country: addressBook?.country ?? '',
       state: addressBook?.state ?? '',
